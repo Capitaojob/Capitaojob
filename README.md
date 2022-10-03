@@ -26,3 +26,5 @@ The programming languages I'm studying the most are C, Java, Python and HTML / C
 
 I also took some courses focused on intra and interpersonal skills, focusing on improving my emotional management and teamwork, with some of my mentors being O Corpo Explica and Murilo Gun. 
 Finally, i took and take classes on financial investment and time management, with the mentors Thiago Nigro, Bruno Perini and Wendell Carvalho.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capitaojob&show_icons=true&theme=radical)
