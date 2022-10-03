@@ -3,8 +3,7 @@ Hello!
 - 🔭 I’m currently working on developing my software development skills
 - 🌱 I’m currently learning Java / C / HTML / CSS
 - 🤔 Any suggestions on how to improve my coding are welcome!
-- 📫 How to reach me -->
-
+- 📫 How to reach me:
 
   - Phone: (+55) 16 99357-2303
   - Gmail: joaopbataglia@gmail.com / jpangottibataglia@gmail.com
