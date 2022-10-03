@@ -6,10 +6,10 @@ Hello!
 - 📫 How to reach me -->
 
 
-- Phone: (+55) 16 99357-2303
-- Gmail: joaopbataglia@gmail.com / jpangottibataglia@gmail.com
-- Linkedin: www.linkedin.com/in/joão-bataglia
-- Instagram: @joao_bataglia
+  - Phone: (+55) 16 99357-2303
+  - Gmail: joaopbataglia@gmail.com / jpangottibataglia@gmail.com
+  - Linkedin: www.linkedin.com/in/joão-bataglia
+  - Instagram: @joao_bataglia
 
 I am an IT (System Analysis and Development) student at UNIP, complementing my studies with external courses and training in my spare time. I'm looking for work in the area so that i can learn more while continuing my studies in the college, diversify my repertoire, improve my hard and soft skills as a whole and, at the same time, be able to add to the company i will be working for. 
 
