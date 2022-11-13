@@ -3,7 +3,7 @@ Hello, my name is João!
 ## BIOGRAPHY
 
 - 🔭 I’m currently working on developing my software development skills
-- 🌱 I’m currently learning Java / C / HTML / CSS
+- 🌱 I’m currently learning Java / C# / Web Development
 - 🤔 Any suggestions on how to improve my coding are welcome!
 - 📫 How to reach me:
 
