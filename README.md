@@ -27,4 +27,4 @@ I have intermediate experience and knowledge in Excel, Word, Photoshop, and Blen
 
 I have also completed courses focused on intra and interpersonal skills, improving my emotional management and teamwork, with mentors such as O Corpo Explica and Murilo Gun. Additionally, I have taken classes on financial investment and time management, learning from mentors like Thiago Nigro, Bruno Perini, and Wendell Carvalho.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capitaojob&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capitaojob)](https://github.com/Capitaojob)
