@@ -7,7 +7,6 @@ Hello, my name is João!
 - 🤔 Any suggestions on how to improve my coding are welcome!
 - 📫 How to reach me:
 
-  - Phone: (+55) 16 99357-2303
   - Gmail: joaopbataglia@gmail.com / jpangottibataglia@gmail.com
   - Linkedin: www.linkedin.com/in/joão-bataglia
   - Instagram: @joao_bataglia
